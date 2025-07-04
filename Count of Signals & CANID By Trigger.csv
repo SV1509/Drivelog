@@ -1,0 +1,4 @@
+﻿trigger_source_event,Count of CAN_ID,Count of Signal
+TRIG_AEB_WARNING_MSG,19,1075
+TRIG_AES_WARNING,19,547
+TRIG_STS_EMERGENCY_BRK,19,1075
